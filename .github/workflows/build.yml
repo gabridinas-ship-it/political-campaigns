@@ -14,8 +14,12 @@ jobs:
         uses: gradle/actions/setup-gradle@v3
       - name: Build with Gradle
         run: gradle build --continue || true
+      - name: Clean and Prepare Jar
+        run: |
+          mkdir -p final-artifact
+          find build/libs -maxdepth 1 -name "*.jar" ! -name "*-sources.jar" ! -name "*-javadoc.jar" ! -name "*-dev.jar" -exec cp {} final-artifact/ \;
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: mod-jar
-          path: build/libs/political-campaigns-*.jar
+          path: final-artifact/*.jar
