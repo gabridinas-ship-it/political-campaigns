@@ -5,18 +5,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up JDK 25
+      - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
-          java-version: '25'
+          java-version: '17'
           distribution: 'temurin'
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
       - name: Build with Gradle
-        run: gradle build --continue || true
+        run: ./gradlew build
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: mod-jar
-          path: |
-            build/libs/political-campaigns-1.0.0.jar
+            name: political-campaigns-mod
+            path: build/libs/*.jar
+            
