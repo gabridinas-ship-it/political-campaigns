@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:oak_planks",
+    "P": "minecraft:paper"
+  },
+  "result": {
+    "id": "political_campaigns:ballot_box",
+    "count": 1
+  }
+}

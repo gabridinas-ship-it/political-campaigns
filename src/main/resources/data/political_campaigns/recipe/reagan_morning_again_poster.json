@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "political_campaigns:reagan_morning_again",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:painting/variant": "political_campaigns:reagan_morning_again"
+    }
+  }
+}

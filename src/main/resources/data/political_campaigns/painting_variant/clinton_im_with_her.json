@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:clinton_im_with_her",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "I'm With Her",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Clinton",
+    "color": "gray"
+  }
+}

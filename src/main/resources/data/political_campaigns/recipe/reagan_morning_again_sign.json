@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:red_carpet",
+  "result": {
+    "id": "political_campaigns:reagan_morning_again",
+    "count": 1
+  }
+}

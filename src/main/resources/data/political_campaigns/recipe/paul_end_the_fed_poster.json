@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "political_campaigns:paul_end_the_fed",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:painting/variant": "political_campaigns:paul_end_the_fed"
+    }
+  }
+}

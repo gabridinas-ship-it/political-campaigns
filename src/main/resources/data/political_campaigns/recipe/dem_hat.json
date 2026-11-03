@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:blue_wool",
+    "minecraft:blue_wool",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "political_campaigns:dem_hat",
+    "count": 1
+  }
+}

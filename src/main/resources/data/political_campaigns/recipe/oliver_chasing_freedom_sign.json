@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:yellow_carpet",
+  "result": {
+    "id": "political_campaigns:oliver_chasing_freedom",
+    "count": 1
+  }
+}

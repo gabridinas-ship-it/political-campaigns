@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:mcmullin_stand_for_principles",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "Stand for Principles",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "McMullin",
+    "color": "gray"
+  }
+}

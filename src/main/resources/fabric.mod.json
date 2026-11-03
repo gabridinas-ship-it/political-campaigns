@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "political_campaigns",
+  "version": "${version}",
+  "name": "Political Campaigns",
+  "description": "Party caps, logo banners, slogan signs, posters, villager voting and a ballot box for the Democratic, Republican (GOP) and Libertarian parties.",
+  "authors": ["YOUR_NAME"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.politicalcampaigns.PoliticalCampaigns"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:reagan_morning_again",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "It's Morning Again in America",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Reagan",
+    "color": "gray"
+  }
+}

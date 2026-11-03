@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:oliver_chasing_freedom",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "Chase-ing Freedom",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Chase Oliver",
+    "color": "gray"
+  }
+}

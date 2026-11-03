@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:eisenhower_i_like_ike",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "I Like Ike",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Eisenhower",
+    "color": "gray"
+  }
+}

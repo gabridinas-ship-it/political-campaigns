@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "political_campaigns:jfk_time_for_greatness",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:painting/variant": "political_campaigns:jfk_time_for_greatness"
+    }
+  }
+}

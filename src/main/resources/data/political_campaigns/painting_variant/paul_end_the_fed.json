@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:paul_end_the_fed",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "End the Fed",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Ron Paul",
+    "color": "gray"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:blue_carpet",
+  "result": {
+    "id": "political_campaigns:clinton_stronger_together",
+    "count": 1
+  }
+}

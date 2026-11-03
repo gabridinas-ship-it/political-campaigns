@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:yellow_wool",
+    "minecraft:yellow_wool",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "political_campaigns:lib_hat",
+    "count": 1
+  }
+}

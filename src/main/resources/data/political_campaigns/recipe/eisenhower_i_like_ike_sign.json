@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:red_carpet",
+  "result": {
+    "id": "political_campaigns:eisenhower_i_like_ike",
+    "count": 1
+  }
+}

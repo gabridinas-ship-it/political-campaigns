@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:yellow_carpet",
+  "result": {
+    "id": "political_campaigns:mcmullin_stand_for_principles",
+    "count": 1
+  }
+}

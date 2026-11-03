@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:jfk_time_for_greatness",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "A Time for Greatness",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "JFK",
+    "color": "gray"
+  }
+}

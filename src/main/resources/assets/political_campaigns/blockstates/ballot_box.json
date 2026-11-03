@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "political_campaigns:block/ballot_box"
+    }
+  }
+}

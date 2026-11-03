@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:red_dye"
+  ],
+  "result": {
+    "id": "political_campaigns:republican_banner_pattern",
+    "count": 1
+  }
+}

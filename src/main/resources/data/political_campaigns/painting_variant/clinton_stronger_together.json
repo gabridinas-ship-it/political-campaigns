@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:clinton_stronger_together",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "Stronger Together",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Clinton",
+    "color": "gray"
+  }
+}

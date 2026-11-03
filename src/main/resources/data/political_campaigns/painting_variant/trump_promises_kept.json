@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:trump_promises_kept",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "Promises Made, Promises Kept",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Trump",
+    "color": "gray"
+  }
+}

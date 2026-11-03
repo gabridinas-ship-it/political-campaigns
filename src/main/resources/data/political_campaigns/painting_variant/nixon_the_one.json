@@ -1,0 +1,13 @@
+{
+  "asset_id": "political_campaigns:nixon_the_one",
+  "width": 1,
+  "height": 2,
+  "title": {
+    "text": "Nixon's the One",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Nixon",
+    "color": "gray"
+  }
+}
