@@ -14,10 +14,9 @@ jobs:
         uses: gradle/actions/setup-gradle@v3
       - name: Build with Gradle
         run: gradle build --continue || true
-      - name: Remove extra jars
-        run: rm -f build/libs/*-sources.jar build/libs/*-javadoc.jar build/libs/*-dev.jar
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: mod-jar
-          path: build/libs/*.jar
+          path: |
+            build/libs/political-campaigns-1.0.0.jar
